@@ -1,0 +1,10 @@
+:root { color-scheme: light; font-family: "Segoe UI", sans-serif; color: #1c1917; background: #f6f4ef; }
+body { margin: 0; }
+main { max-width: 38rem; margin: 0 auto; padding: 4rem 1.25rem 5rem; }
+.marca { margin: 0 0 .5rem; font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; color: #7c6a3a; }
+h1 { font-size: 2rem; line-height: 1.15; margin: 0 0 1rem; }
+h2 { font-size: 1.05rem; margin: 1.6rem 0 .4rem; }
+p, li { font-size: 1.05rem; line-height: 1.55; }
+a { color: #6b4f12; }
+ul { padding-left: 1.1rem; }
+.contato { margin-top: 2rem; color: #57534e; }
